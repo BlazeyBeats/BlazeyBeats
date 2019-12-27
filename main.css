@@ -114,7 +114,18 @@ body{
     padding-top:20px;
 }
 
-
+.adobe img{
+  height:auto;  
+}
+.graffiti img{
+  height:auto;  
+}
+.sketchbook img{
+  height:auto;  
+}
+.digital img{
+  height:auto;  
+}
 
 .digital h2 {
   margin: 0;
@@ -233,6 +244,7 @@ body{
    .digital img {
     margin: 15px;
     width: 240px;
+   
       
    }
    .digitaltall {
@@ -255,7 +267,7 @@ body{
   .sketchbook img{
     margin: 15px;
     width: 240px;
-    
+   
   }
   .sketchbooktall{
     display: flex;
@@ -280,7 +292,7 @@ body{
   .adobe img{
     margin: 15px;
     width: 240px;
-      
+  
   }
  }
 
@@ -859,6 +871,7 @@ body{
 .sketchbook img{
   margin: 80px;
   width: 530px;
+  height: auto;
   
 }
 
